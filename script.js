@@ -5,6 +5,7 @@ window.addEventListener('load', function () {
     canvas.width = 1500;
     canvas.height = 500;
 
+
     class InputHandler {
         constructor(game) {
             this.game = game;
